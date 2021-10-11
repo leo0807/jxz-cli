@@ -17,4 +17,4 @@
 - create init <project name> 创建vue项目
 - 使用watch自动添加路由导航， 也可以通过 create refresh 手动添加
 
-[!https://www.npmjs.com/package/jxz-cli]
+[Link Here](https://www.npmjs.com/package/jxz-cli)
